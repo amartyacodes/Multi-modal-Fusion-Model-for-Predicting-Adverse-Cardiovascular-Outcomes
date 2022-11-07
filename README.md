@@ -50,6 +50,9 @@ This will automatically save the ROC.png file having the ROC scores
 
 **The results obtained and the comparisons have been mentioned in our manuscript.**
 
+## Manuscript 
+[DOI](https://doi.org/10.1088/1361-6579/ac9e8a)  https://iopscience.iop.org/article/10.1088/1361-6579/ac9e8a
+
 ## Contribution
 The code contribution of the Fusion Model was made [Amartya Bhattacharya](amartyacodes.github.io) while working as a research assistant at [Banerjee Lab, Arizona State University](https://labs.engineering.asu.edu/banerjeelab/) under the guidance of [Dr. Imon Banerjee](https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/) and [Dr. Arindam Sanyal](https://labs.engineering.asu.edu/mixedsignals/).
 

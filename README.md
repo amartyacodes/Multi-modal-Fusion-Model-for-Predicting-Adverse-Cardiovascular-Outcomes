@@ -4,6 +4,9 @@ The code for the multi-modal fusion model for prediction of adverse cardiovascul
 The code was implemented using 
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow) and [![TensorFlow 2.8](https://img.shields.io/badge/TensorFlow-2.8-FF6F00?logo=tensorflow)](https://github.com/tensorflow/tensorflow/releases/tag/v2.8.0) 
 
+
+## Manuscript 
+https://iopscience.iop.org/article/10.1088/1361-6579/ac9e8a
 ## Model Description
 
 The model has been built for prediction of cardiovascular outcomes such as Stroke, Chronic Heart Failure and Mortality using the ECG data as well as the Electronic Health Record(EHR) data. 
@@ -50,8 +53,7 @@ This will automatically save the ROC.png file having the ROC scores
 
 **The results obtained and the comparisons have been mentioned in our manuscript.**
 
-## Manuscript 
-https://iopscience.iop.org/article/10.1088/1361-6579/ac9e8a
+
 
 ## Contribution
 The code contribution of the Fusion Model was made [Amartya Bhattacharya](amartyacodes.github.io) while working as a research assistant at [Banerjee Lab, Arizona State University](https://labs.engineering.asu.edu/banerjeelab/) under the guidance of [Dr. Imon Banerjee](https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/) and [Dr. Arindam Sanyal](https://labs.engineering.asu.edu/mixedsignals/).
